@@ -3,6 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sein's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 [![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensen52&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sensen52/github-readme-stats)
+
+
+<!-- BLOG-POST-LIST:START -->
+
+
+
+
+
+<!-- BLOG-POST-LIST:END -->
 <!--
 **sensen52/sensen52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

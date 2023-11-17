@@ -27,8 +27,11 @@
 <!-- BLOG-POST-LIST:START -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tpdls36999)](https://velog.io/@tpdls36999/%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tpdls36999)](https://velog.io/@tpdls36999/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EC%B4%88%EC%A0%95%EB%A6%AC)
 
 [![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensen52&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sensen52/github-readme-stats)
+
+
 
 
 <!-- BLOG-POST-LIST:END -->

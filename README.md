@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sein's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-[![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensen52&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sensen52/github-readme-stats)
-
+## USE & currently learning 🌱
 
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,12 +15,13 @@
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
+## My memory 🤔
 
 <!-- BLOG-POST-LIST:START -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tpdls36999)](https://velog.io/@tpdls36999/%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
 
+[![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sensen52&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sensen52/github-readme-stats)
 
 
 <!-- BLOG-POST-LIST:END -->

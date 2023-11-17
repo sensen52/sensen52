@@ -7,7 +7,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tpdls36999)](https://velog.io/@tpdls36999)
 
 
 

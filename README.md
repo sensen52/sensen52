@@ -6,7 +6,7 @@
 Hello✨ I'm BackEnd Developer
 </h2>
 <div align="center">
-i love Design, FrontEnd, Backend <br/>
+i love Design, FrontEnd, BackEnd <br/>
 
 </div>
 <div align="center" style=Color="Yellow">

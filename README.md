@@ -4,6 +4,9 @@
 
 
 ### Hello✨ I'm BackEnd Developer
+i love Design, FrontEnd, Backend <br/>
+"We can grow together"
+
 
 ## USE & currently learning 🌱
 
